@@ -1,356 +1,253 @@
-
-#EXTINF:-1,CCTV1
-http://ivi.bupt.edu.cn/hls/cctv1hd.m3u8
-#EXTINF:-1,CCTV5HD
-http://183.207.248.71:80/cntv/live1/CCTV-5/cctv-5
-#EXTINF:-1,CCTV6
-http://ivi.bupt.edu.cn/hls/cctv6hd.m3u8
-#EXTINF:-1,NHK华语视界
-https://nhkw-zh-hlscomp.akamaized.net/8thz5iufork8wjip/playlist.m3u8
-#EXTINF:-1,NHKWORLD
-https://nhkwlive-xjp.akamaized.net/hls/live/2003458/nhkwlive-xjp/index_1M.m3u8
-#EXTINF:-1,CHC高清电影
-http://ivi.bupt.edu.cn/hls/chchd.m3u8
-#EXTINF:-1,上海纪实
-http://223.110.245.155/ott.js.chinamobile.com/PLTV/3/224/3221227420/index.m3u8
-#EXTINF:-1,湖南卫视
-http://ivi.bupt.edu.cn/hls/hunanhd.m3u8
-#EXTINF:-1,东方卫视
-http://ivi.bupt.edu.cn/hls/dfhd.m3u8
-#EXTINF:-1,江苏卫视
-http://ivi.bupt.edu.cn/hls/jshd.m3u8
-#EXTINF:-1,凤凰中文HD
-http://liveali.ifeng.com/live/FHZW.m3u8
-#EXTINF:-1,凤凰资讯
-http://liveali.ifeng.com/live/FHZX.m3u8
-#EXTINF:-1,中视
-http://192.200.120.82:8080/ZZ_zhongshi/ZZ_zhongshi.m3u8
-#EXTINF:-1,CCTV1
-http://ivi.bupt.edu.cn/hls/cctv1hd.m3u8
-#EXTINF:-1,CCTV5HD
-http://183.207.248.71:80/cntv/live1/CCTV-5/cctv-5
-#EXTINF:-1,CCTV6
-http://ivi.bupt.edu.cn/hls/cctv6hd.m3u8
-#EXTINF:-1,NHK华语视界
-https://nhkw-zh-hlscomp.akamaized.net/8thz5iufork8wjip/playlist.m3u8
-#EXTINF:-1,NHKWORLD
-https://nhkwlive-xjp.akamaized.net/hls/live/2003458/nhkwlive-xjp/index_1M.m3u8
-#EXTINF:-1,CHC高清电影
-http://ivi.bupt.edu.cn/hls/chchd.m3u8
-#EXTINF:-1,上海纪实
-http://223.110.245.155/ott.js.chinamobile.com/PLTV/3/224/3221227420/index.m3u8
-#EXTINF:-1,湖南卫视
-http://ivi.bupt.edu.cn/hls/hunanhd.m3u8
-#EXTINF:-1,东方卫视
-http://ivi.bupt.edu.cn/hls/dfhd.m3u8
-#EXTINF:-1,江苏卫视
-http://ivi.bupt.edu.cn/hls/jshd.m3u8
-#EXTINF:-1,凤凰中文HD
-http://liveali.ifeng.com/live/FHZW.m3u8
-#EXTINF:-1,凤凰资讯
-http://liveali.ifeng.com/live/FHZX.m3u8
-#EXTINF:-1,中视
-http://192.200.120.82:8080/ZZ_zhongshi/ZZ_zhongshi.m3u8
-#EXTINF:-1,5AAB TV
-http://158.69.124.9:1935/5aabtv/5aabtv/chunklist.m3u8
-#EXTINF:-1,5AAB TV
-http://158.69.124.9:1935/5aabtv/5aabtv/playlist.m3u8
-#EXTINF:-1,Amazing Discoveries TV
-https://uni01rtmp.tulix.tv/amazingdtv/amazingdtv/chunklist_w133198316.m3u8
-#EXTINF:-1,Amazing Discoveries TV
-https://uni01rtmp.tulix.tv/amazingdtv/amazingdtv/chunklist_w906756729.m3u8
-#EXTINF:-1,BBC Toronto Gaunda Punjab
-http://start.agmediachandigarh.com/gaundapunjab/tv/playlist.m3u8
-#EXTINF:-1,Canada One
-http://cdn8.live247stream.com/canadaone/tv/playlist.m3u8
-#EXTINF:-1,Canada Star TV
-http://live.canadastartv.com:1935/canadastartv/canadastartv/playlist.m3u
-#EXTINF:-1,Canadian Arab TV
-http://192.226.228.32:8080/hls/catv/index.m3u8?fluxustv.m3u8
-#EXTINF:-1,EWTN Canada
-http://dyo5cp96eopax.cloudfront.net/p/CANE_760x432_1200k.m3u8
-#EXTINF:-1,ICI RDI
-https://rcavlive.akamaized.net/hls/live/704025/xcanrdi/master_2500.m3u8
-#EXTINF:-1,IIPC TV
-https://uni10rtmp.tulix.tv/iipctv/iipctv.smil/chunklist_w1550531622_b864000.m3u8
-#EXTINF:-1,Knowledge Kids
-http://knstream1.azureedge.net/knlive/knlive_high.m3u8
-#EXTINF:-1,Miracle Channel
-https://d9ruw6nhj5a52.cloudfront.net/live/live/playlist.m3u8
-#EXTINF:-1,Miracle Channel
-https://d9ruw6nhj5a52.cloudfront.net/live/smil:VODmultibitrate.smil/chunklist_wF1TV_b3000000_sleng.m3u8
-#EXTINF:-1,Montreal Greek TV
-http://94.130.180.175:8081/live/greektv/playlist.m3u8
-#EXTINF:-1,NTV Newfoundland
-https://2-fss-2.streamhoster.com/pl_138/201748-1282640-1/playlist.m3u8
-#EXTINF:-1,Pardesi TV
-http://stream.pardesitv.online/pardesi/tracks-v1a1/mono.m3u8
-#EXTINF:-1,Prime Asia TV
-http://primeasia.dyndns.tv:8080/Live_web_250/tracks-v1a1/mono.m3u8
-#EXTINF:-1,Prime Canada TV
-http://cdn27.live247stream.com/primecanada/247/primecanada/stream1/chunks.m3u8
-#EXTINF:-1,QVTV
-https://qvmstream.tulix.tv/720p/720p/chunklist_w1600218747.m3u8
-#EXTINF:-1,Salt + Light Television
-http://livestream.5centscdn.com/slworld/d65ce2bdd03471fde0a1dc5e01d793bb.sdp/index.m3u8
-#EXTINF:-1,Sardari TV
-http://158.69.124.9:1935/sardaritv/sardaritv/playlist.m3u8
-#EXTINF:-1,Sur Sagar TV
-http://sursagar24.dyndns.tv:8080/sstv/720p/tracks-v1a1/index.m3u8
-#EXTINF:-1,Tamil Vision TV
-http://live.tamilvision.tv:8081/TVI/HD/playlist.m3u8
-#EXTINF:-1,Tamil Vision TV
-http://live.tamilvision.tv:8081/TVI/SD/chunks.m3u8
-#EXTINF:-1,Tele-V
-https://bcsecurelivehls-i.akamaihd.net/hls/live/551061/618566855001/master.m3u8
-#EXTINF:-1,The Shopping Channel
-http://tscstreaming-lh.akamaihd.net/i/TSCLiveStreaming_1@91031/master.m3u8
-#EXTINF:-1,Toronto 360 TV
-http://toronto3.live247stream.com/toronto360/tv/playlist.m3u8
-#EXTINF:-1,TV 16 Toronto
-http://capcobroadcaststream.in:1935/capco/tv29/playlist.m3u8
-#EXTINF:-1,Télé-Québec
-https://teleqmmd.mmdlive.lldns.net/teleqmmd/f386e3b206814e1f8c8c1c71c0f8e748/chunklist_b2592000.m3u8
-#EXTINF:-1,Abu Dhabi Drama
-http://www.elahmad.com/tv/m3u8/adtv.m3u8?id=abudhabi_drama
-#EXTINF:-1,Abu Dhabi Sports 1
-http://www.elahmad.com/tv/m3u8/adtv.m3u8?id=abudhabi_Sports1
-#EXTINF:-1,Abu Dhabi Sports 2
-http://www.elahmad.com/tv/m3u8/adtv.m3u8?id=abudhabi_sports2
-#EXTINF:-1,Abu Dhabi Sports 3
-http://www.elahmad.com/tv/m3u8/adtv.m3u8?id=abudhabi_sports3
-#EXTINF:-1,Abu Dhabi Sports 4
-http://www.elahmad.com/tv/m3u8/adtv.m3u8?id=abudhabi_sports4
-#EXTINF:-1,Abu Dhabi TV
-http://admdn2.cdn.mangomolo.com/adtv/smil:adtv.stream.smil/chunklist_b4000000_t64MTA4MHA=.m3u8
-#EXTINF:-1,Abu Dhabi TV
-http://www.elahmad.com/tv/m3u8/adtv.m3u8?id=abudhabi_aloula
-#EXTINF:-1,Ajman TV
-http://livecdnh2.tvanywhere.ae/hls/ajman/04.m3u8
-#EXTINF:-1,Al Aan TV
-http://livecdnh3.tvanywhere.ae/hls/alaantv/04.m3u8
-#EXTINF:-1,Al Arabiya
-http://livecdnh3.tvanywhere.ae/hls/alarabiya/04.m3u8
-#EXTINF:-1,Al Arabiya
-http://www.elahmad.com/tv/m3u8/arabiya.m3u8?id=aa
-#EXTINF:-1,B4U Aflam
-http://livecdnh3.tvanywhere.ae/hls/b4uaflam/04.m3u8
-#EXTINF:-1,B4U Plus
-http://livecdnh3.tvanywhere.ae/hls/b4uplus/04.m3u8
-#EXTINF:-1,Cartoon Network
-http://95.170.215.109:80/hls/m3u8/CNArabica-Backup.m3u8
-#EXTINF:-1,Cinema 1
-http://livecdnh1.tvanywhere.ae/hls/cin1/01.m3u8
-#EXTINF:-1,Cinema 1
-http://livecdnh1.tvanywhere.ae/hls/cin1/03.m3u8
-#EXTINF:-1,Cinema 1
-http://livecdnh1.tvanywhere.ae/hls/cin1/04.m3u8
-#EXTINF:-1,Cinema 1
-http://livecdnh1.tvanywhere.ae/hls/cin1/index.m3u8
-#EXTINF:-1,Citruss TV
-https://citrusstv.akamaized.net/hls/live/687285/CTV/01.m3u8
-#EXTINF:-1,Citruss TV
-https://citrusstv.akamaized.net/hls/live/687285/CTV/index.m3u8
-#EXTINF:-1,Dubai One
-http://www.elahmad.com/tv/m3u8/dubaitv.m3u8?id=dubaione
-#EXTINF:-1,Dubai Racing
-http://dmisvthvll.cdn.mangomolo.com/events/smil:events.smil/chunklist.m3u8
-#EXTINF:-1,Dubai Racing
-http://dmisvthvll.cdn.mangomolo.com/events/smil:events.smil/chunklist_b1600000.m3u8
-#EXTINF:-1,Dubai Racing
-http://dmithrvll.cdn.mangomolo.com/dubairacing/smil:dubairacing.smil/chunklist_b1600000.m3u8?fluxustv.m3u8
-#EXTINF:-1,Dubai Sports
-http://www.elahmad.com/tv/m3u8/dubaitv.m3u8?id=dubaisports
-#EXTINF:-1,Dubai Sports 1
-http://www.elahmad.com/tv/m3u8/dubaitv.m3u8?id=dubaisports1
-#EXTINF:-1,Dubai Sports 2
-http://www.elahmad.com/tv/m3u8/dubaitv.m3u8?id=dubaisports2
-#EXTINF:-1,Dubai Sports 3
-http://www.elahmad.com/tv/m3u8/dubaitv.m3u8?id=dubaisports3
-#EXTINF:-1,Dubai TV
-http://www.elahmad.com/tv/m3u8/dubaitv.m3u8?id=dubaitv
-#EXTINF:-1,Dubai Zaman
-http://dmiffthvll.cdn.mangomolo.com/dubaizaman/smil:dubaizaman.smil/chunklist_b1500000.m3u8
-#EXTINF:-1,Dubai Zaman
-http://www.elahmad.com/tv/m3u8/dubaitv.m3u8?id=dubaizaman
-#EXTINF:-1,Eamar Music
-http://82.212.74.3:8000/live/7514.m3u8
-#EXTINF:-1,Emarat TV
-http://www.elahmad.com/tv/m3u8/adtv.m3u8?id=abudhabi_alemarat
-#EXTINF:-1,Imagine Movies
-http://95.170.215.109/hls/Imagine-M-Backup-M.m3u8
-#EXTINF:-1,Majid TV
-https://admdn4.cdn.mangomolo.com/majid/smil:majid.stream.smil/playlist.m3u8?adtv
-#EXTINF:-1,MBC
-http://livecdnh2.tvanywhere.ae/hls/mbc1/02.m3u8
-#EXTINF:-1,MBC
-http://livecdnh2.tvanywhere.ae/hls/mbc1/02.m3u8?sd=10&rebase=on
-#EXTINF:-1,MBC
-http://livecdnh2.tvanywhere.ae/hls/mbc1/03.m3u8
-#EXTINF:-1,MBC
-http://livecdnh2.tvanywhere.ae/hls/mbc1/04.m3u8
-#EXTINF:-1,MBC
-http://livecdnh2.tvanywhere.ae/hls/mbc1/05.m3u8
-#EXTINF:-1,MBC
-http://livecdnh2.tvanywhere.ae/hls/mbc1/index.m3u8?sd=10&rebase=on
-#EXTINF:-1,MBC 2 HD
-http://livecdnh3.tvanywhere.ae/hls/mbc2/03.m3u8
-#EXTINF:-1,MBC 2 HD
-http://livecdnh3.tvanywhere.ae/hls/mbc2/04.m3u8
-#EXTINF:-1,MBC 2 HD
-http://livecdnh3.tvanywhere.ae/hls/mbc2/05.m3u8
-#EXTINF:-1,MBC 2 HD
-http://livecdnh3.tvanywhere.ae:80/hls/mbc2/05.m3u8
-#EXTINF:-1,MBC 2 HD
-http://livecdnh3.tvanywhere.ae:80/hls/mbc2/index.m3u8
-#EXTINF:-1,MBC 3
-http://livecdnh2.tvanywhere.ae/hls/mbc3/02.m3u8?sd=10&rebase=on
-#EXTINF:-1,MBC 3
-http://livecdnh2.tvanywhere.ae/hls/mbc3/03.m3u8
-#EXTINF:-1,MBC 3
-http://livecdnh2.tvanywhere.ae/hls/mbc3/04.m3u8
-#EXTINF:-1,MBC 3
-http://livecdnh2.tvanywhere.ae/hls/mbc3/05.m3u8
-#EXTINF:-1,MBC 3
-http://livecdnh2.tvanywhere.ae/hls/mbc3/05.m3u8?fluxustv.m3u8
-#EXTINF:-1,MBC 3
-http://livecdnh2.tvanywhere.ae/hls/mbc3/index.m3u8?sd=10&rebase=on
-#EXTINF:-1,MBC 4
-http://livecdnh3.tvanywhere.ae/hls/mbc4/03.m3u8
-#EXTINF:-1,MBC 4
-http://livecdnh3.tvanywhere.ae/hls/mbc4/04.m3u8
-#EXTINF:-1,MBC 4
-http://livecdnh3.tvanywhere.ae/hls/mbc4/05.m3u8
-#EXTINF:-1,MBC 4
-http://livecdnh3.tvanywhere.ae/hls/mbc4/05.m3u8?fluxustv.m3u8
-#EXTINF:-1,MBC 4
-http://livecdnh3.tvanywhere.ae:80/hls/mbc4/05.m3u8
-#EXTINF:-1,MBC 4
-http://livecdnh3.tvanywhere.ae:80/hls/mbc4/index.m3u8
-#EXTINF:-1,MBC Action HD
-http://livecdnh3.tvanywhere.ae/hls/mbcaction/02.m3u8
-#EXTINF:-1,MBC Action HD
-http://livecdnh3.tvanywhere.ae/hls/mbcaction/02.m3u8?sd=10&rebase=on
-#EXTINF:-1,MBC Action HD
-http://livecdnh3.tvanywhere.ae/hls/mbcaction/03.m3u8
-#EXTINF:-1,MBC Action HD
-http://livecdnh3.tvanywhere.ae/hls/mbcaction/04.m3u8
-#EXTINF:-1,MBC Action HD
-http://livecdnh3.tvanywhere.ae/hls/mbcaction/05.m3u8
-#EXTINF:-1,MBC Action HD
-http://livecdnh3.tvanywhere.ae:80/hls/mbcaction/05.m3u8
-#EXTINF:-1,MBC Action HD
-http://livecdnh3.tvanywhere.ae:80/hls/mbcaction/index.m3u8
-#EXTINF:-1,MBC Bollywood
-http://livecdnh2.tvanywhere.ae/hls/mbc_bolly/02.m3u8?sd=10&rebase=on
-#EXTINF:-1,MBC Bollywood
-http://livecdnh2.tvanywhere.ae/hls/mbc_bolly/03.m3u8
-#EXTINF:-1,MBC Bollywood
-http://livecdnh2.tvanywhere.ae/hls/mbc_bolly/04.m3u8
-#EXTINF:-1,MBC Bollywood
-http://livecdnh2.tvanywhere.ae/hls/mbc_bolly/05.m3u8
-#EXTINF:-1,MBC Bollywood
-http://livecdnh2.tvanywhere.ae:80/hls/mbc_bolly/04.m3u8
-#EXTINF:-1,MBC Bollywood
-http://livecdnh2.tvanywhere.ae:80/hls/mbc_bolly/index.m3u8
-#EXTINF:-1,MBC Drama
-http://livecdnh2.tvanywhere.ae/hls/mbc_drama/03.m3u8
-#EXTINF:-1,MBC Drama
-http://livecdnh2.tvanywhere.ae/hls/mbc_drama/04.m3u8
-#EXTINF:-1,MBC Drama
-http://livecdnh2.tvanywhere.ae/hls/mbc_drama/05.m3u8
-#EXTINF:-1,MBC Drama
-http://livecdnh2.tvanywhere.ae/hls/mbc_drama/index.m3u8?sd=10&rebase=on
-#EXTINF:-1,MBC Drama
-http://livecdnh2.tvanywhere.ae:80/hls/mbc_drama/05.m3u8
-#EXTINF:-1,MBC Drama
-http://livecdnh2.tvanywhere.ae:80/hls/mbc_drama/index.m3u8
-#EXTINF:-1,MBC Masr
-http://livecdnh2.tvanywhere.ae/hls/mbc_msr/02.m3u8?sd=10&rebase=on
-#EXTINF:-1,MBC Masr
-http://livecdnh2.tvanywhere.ae/hls/mbc_msr/04.m3u8
-#EXTINF:-1,MBC Max HD
-http://livecdnh3.tvanywhere.ae/hls/mbcmax/02.m3u8
-#EXTINF:-1,MBC Max HD
-http://livecdnh3.tvanywhere.ae/hls/mbcmax/02.m3u8?sd=10&rebase=on
-#EXTINF:-1,MBC Max HD
-http://livecdnh3.tvanywhere.ae/hls/mbcmax/03.m3u8
-#EXTINF:-1,MBC Max HD
-http://livecdnh3.tvanywhere.ae/hls/mbcmax/04.m3u8
-#EXTINF:-1,MBC Max HD
-http://livecdnh3.tvanywhere.ae/hls/mbcmax/05.m3u8
-#EXTINF:-1,MBC Max HD
-http://livecdnh3.tvanywhere.ae:80/hls/mbcmax/05.m3u8
-#EXTINF:-1,MBC Max HD
-http://livecdnh3.tvanywhere.ae:80/hls/mbcmax/index.m3u8
-#EXTINF:-1,MBC VARIETY HD
-http://95.170.215.118/hls/MBC-P-VARity-FF.m3u8
-#EXTINF:-1,MBC+ Drama
-http://95.170.215.118/hls/m3u8/MBC-DRAMA-SS.m3u8
-#EXTINF:-1,Music Now
-http://livecdnh1.tvanywhere.ae/hls/music_now/02.m3u8
-#EXTINF:-1,Music Now
-http://livecdnh1.tvanywhere.ae/hls/music_now/03.m3u8
-#EXTINF:-1,Music Now
-http://livecdnh1.tvanywhere.ae/hls/music_now/04.m3u8
-#EXTINF:-1,Music Now
-http://livecdnh1.tvanywhere.ae/hls/music_now/index.m3u8
-#EXTINF:-1,National Geographic Abu Dhabi
-http://www.elahmad.com/tv/m3u8/tv_anywhere.m3u8?id=natgeo
-#EXTINF:-1,National Geographic Abu Dhabi
-https://admdn2.cdn.mangomolo.com/nagtv/smil:nagtv.stream.smil/playlist.m3u8?adtv
-#EXTINF:-1,Noor Dubai
-http://dmiffthvll.cdn.mangomolo.com/noordubaitv/smil:noordubaitv.smil/chunklist_b725000.m3u8
-#EXTINF:-1,Noor Dubai
-http://www.elahmad.com/tv/m3u8/dubaitv.m3u8?id=noordubaitv
-#EXTINF:-1,Peace TV
-http://peacetv.api.visionip.tv/live/ASHTTP/peacetv-peacetv-peacetv-english-hsslive-25f-16x9-MB/playlist.m3u8
-#EXTINF:-1,Sama Dubai
-http://dmieigthvll.cdn.mangomolo.com/samadubai/smil:samadubai.stream.smil/chunklist_b1600000.m3u8
-#EXTINF:-1,Sama Dubai
-http://www.elahmad.com/tv/m3u8/dubaitv.m3u8?id=samadubai
-#EXTINF:-1,Sharjah 2
-https://svs.itworkscdn.net/smc2live/smc2tv.smil/playlist_1080p.m3u8
-#EXTINF:-1,Sharjah Sport
-https://svs.itworkscdn.net/smc4sportslive/smc4.smil/chunklist_b585000.m3u8
-#EXTINF:-1,Sharjah Sports
-https://svs.itworkscdn.net/smc4sportslive/smc4.smil/chunklist.m3u8
-#EXTINF:-1,Sharjah Sports
-https://svs.itworkscdn.net/smc4sportslive/smc4.smil/playlist.m3u8
-#EXTINF:-1,Sharjah TV
-https://svs.itworkscdn.net/smc1live/smc1.smil/playlist.m3u8
-#EXTINF:-1,Sharjah TV
-https://svs.itworkscdn.net/smc1live/smc1.smil/playlist_1080p.m3u8
-#EXTINF:-1,Sharqiya from Kalba TV
-http://svs.itworkscdn.net/kablatvlive/kabtv1.smil/playlist.m3u8
-#EXTINF:-1,Spacetoon
-http://livecdnh2.tvanywhere.ae/hls/spacetoon/04.m3u8
-#EXTINF:-1,Spacetoon
-http://livecdnh2.tvanywhere.ae/hls/spacetoon/index.m3u8
-#EXTINF:-1,Star Movies
-http://livecdnh1.tvanywhere.ae/hls/star_movies/02.m3u8
-#EXTINF:-1,Star Movies
-http://livecdnh1.tvanywhere.ae/hls/star_movies/05.m3u8
-#EXTINF:-1,Star Movies
-http://livecdnh1.tvanywhere.ae/hls/star_movies/05.m3u8?fluxustv.m3u8
-#EXTINF:-1,Star Movies
-http://livecdnh1.tvanywhere.ae/hls/star_movies/index.m3u8?fluxustv.m3u8
-#EXTINF:-1,Star World
-http://livecdnh1.tvanywhere.ae/hls/star_world/02.m3u8
-#EXTINF:-1,Star World
-http://livecdnh1.tvanywhere.ae/hls/star_world/05.m3u8
-#EXTINF:-1,Star World
-http://livecdnh1.tvanywhere.ae/hls/star_world/05.m3u8?fluxustv.m3u8
-#EXTINF:-1,Star World
-http://livecdnh1.tvanywhere.ae/hls/star_world/index.m3u8?fluxustv.m3u8
-#EXTINF:-1,Star World
-http://livecdnh1.tvanywhere.ae:80/hls/star_world/05.m3u8
-#EXTINF:-1,Toheed TV
-http://51.158.73.206/hls/stream.m3u8
-#EXTINF:-1,Wanasah
-http://livecdnh2.tvanywhere.ae/hls/wanasah/04.m3u8
-#EXTINF:-1,Yas
-https://admdn1.cdn.mangomolo.com/yastv/smil:yastv.stream.smil/playlist.m3u8?adtv
-? 2020 GitHub, Inc.
-#EXTINF:-1,NewTV 金牌综艺
-http://39.134.65.71:80/wh7f454c46tw1932631685_2130682535/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225666/index.m3u8?icpid=88888888&RTS=1579029479&from=1&hms_devid=135
+#EXTM3U
+#EXTINF:-1 ,CCTV-1蓝光
+http://39.135.34.134:18890/000000001000/1000000001000021973/1.m3u8?channel-id=ystenlive&stbId=0000019901080888100D73828EA035729
+#EXTINF:-1 ,CCTV-2蓝光
+http://39.135.34.140:18890/000000001000/1000000001000012442/1.m3u8?channel-id=ystenlive&stbId=0000019901080888100D73828EA039523
+#EXTINF:-1 ,CCTV-3蓝光
+http://39.135.34.8:18890/000000001000/1000000001000011218/1.m3u8?channel-id=ystenlive&stbId=0000019901080888100D73828EA031579
+#EXTINF:-1 ,CCTV-4蓝光
+http://39.135.34.4:18890/000000001000/1000000002000031664/1.m3u8?channel-id=ystenlive&stbId=0000019901080888100D73828EA032150
+#EXTINF:-1 ,CCTV-5蓝光
+http://39.135.34.18:18890/000000001000/1000000001000004794/1.m3u8?channel-id=ystenlive&stbId=0000019901080888100D73828EA036763
+#EXTINF:-1 ,CCTV-5+蓝光
+http://39.135.34.138:18890/000000001000/1000000001000020505/1.m3u8?channel-id=ystenlive&stbId=0000019901080888100D73828EA034709
+#EXTINF:-1 ,CCTV-6蓝光
+http://39.135.34.15:18890/000000001000/1000000001000016466/1.m3u8?channel-id=ystenlive&stbId=0000019901080888100D73828EA039733
+#EXTINF:-1 ,CCTV-7蓝光
+http://39.135.34.139:18890/000000001000/1000000001000024341/1.m3u8?channel-id=ystenlive&stbId=0000019901080888100D73828EA031479
+#EXTINF:-1 ,CCTV-8蓝光
+http://39.135.34.12:18890/000000001000/1000000001000003736/1.m3u8?channel-id=ystenlive&stbId=0000019901080888100D73828EA039505
+#EXTINF:-1 ,CCTV-9蓝光
+http://39.135.34.23:18890/000000001000/1000000001000028286/1.m3u8?channel-id=ystenlive&stbId=0000019901080888100D73828EA039223
+#EXTINF:-1 ,CCTV-10高清
+http://39.135.34.12:18890/000000001000/7019587760656900133/1.m3u8?channel-id=ystenlive&stbId=0000019901080888100D73828EA031635
+#EXTINF:-1 ,CCTV-10蓝光
+http://112.17.40.145:80/PLTV/88888888/224/3221226472/1.m3u8
+#EXTINF:-1 ,CCTV-11蓝光
+http://39.135.34.18:18890/000000001000/1000000002000019789/1.m3u8?channel-id=ystenlive&stbId=0000019901080888100D73828EA038279
+#EXTINF:-1 ,CCTV-12蓝光
+http://39.135.34.22:18890/000000001000/1000000001000001640/1.m3u8?channel-id=ystenlive&stbId=0000019901080888100D73828EA036549
+#EXTINF:-1 ,CCTV-13蓝光
+http://120.233.115.38/tlivecloud-cdn.ysp.cctv.cn/001/2000204603.m3u8
+#EXTINF:-1 ,CCTV-13高清
+http://39.135.34.134:18890/000000001000/1000000002000021303/1.m3u8?channel-id=ystenlive&stbId=0000019901080888100D73828EA038102
+#EXTINF:-1 ,CCTV-14蓝光
+http://39.135.34.134:18890/000000001000/1000000001000021349/1.m3u8?channel-id=ystenlive&stbId=0000019901080888100D73828EA034276
+#EXTINF:-1 ,CCTV-15蓝光
+http://39.135.34.11:18890/000000001000/1000000002000008163/1.m3u8?channel-id=ystenlive&stbId=0000019901080888100D73828EA037975
+#EXTINF:-1 ,CCTV-16蓝光
+http://ott-live.olympicchannel.com/out/u/OC1_1.m3u8
+#EXTINF:-1 ,CCTV-17蓝光
+http://39.135.34.139:18890/000000001000/1000000005000056836/1.m3u8?channel-id=ystenlive&stbId=0000019901080888100D73828EA036465
+#EXTINF:-1 ,CCTV-4K超清
+http://112.17.40.12/PLTV/88888888/224/3221226758/1.m3u8
+#EXTINF:-1 ,湖南卫视蓝光
+http://39.135.34.134:18890/000000001000/1000000001000009115/1.m3u8?channel-id=ystenlive&stbId=0000019901080888100D73828EA039728
+#EXTINF:-1 ,浙江卫视蓝光
+http://39.135.34.18:18890/000000001000/1000000001000009806/1.m3u8?channel-id=ystenlive&stbId=0000019901080888100D73828EA031400
+#EXTINF:-1 ,东方卫视蓝光
+http://39.135.34.6:18890/000000001000/1000000001000030202/1.m3u8?channel-id=ystenlive&stbId=0000019901080888100D73828EA034481
+#EXTINF:-1 ,江苏卫视蓝光
+http://39.135.34.136:18890/000000001000/1000000001000004684/1.m3u8?channel-id=ystenlive&stbId=0000019901080888100D73828EA037067
+#EXTINF:-1 ,北京卫视蓝光
+http://39.135.34.136:18890/000000001000/1000000001000017156/1.m3u8?channel-id=ystenlive&stbId=0000019901080888100D73828EA032256
+#EXTINF:-1 ,天津卫视蓝光
+http://39.135.34.137:18890/000000001000/1000000001000000831/1.m3u8?channel-id=ystenlive&stbId=0000019901080888100D73828EA039649
+#EXTINF:-1 ,深圳卫视蓝光
+http://39.135.34.15:18890/000000001000/1000000001000011645/1.m3u8?channel-id=ystenlive&stbId=0000019901080888100D73828EA037706
+#EXTINF:-1 ,山东卫视蓝光
+http://39.135.34.6:18890/000000001000/1000000001000012807/1.m3u8?channel-id=ystenlive&stbId=0000019901080888100D73828EA033101
+#EXTINF:-1 ,湖北卫视蓝光
+http://39.135.34.16:18890/000000001000/6956052407855047826/1.m3u8?channel-id=ystenlive&stbId=0000019901080888100D73828EA037827
+#EXTINF:-1 ,辽宁卫视蓝光
+http://39.135.34.19:18890/000000001000/1000000002000024033/1.m3u8?channel-id=ystenlive&stbId=0000019901080888100D73828EA035171
+#EXTINF:-1 ,安徽卫视高清
+http://39.135.34.8:18890/000000001000/4774346722046993363/1.m3u8?channel-id=ystenlive&stbId=0000019901080888100D73828EA035639
+#EXTINF:-1 ,广东卫视蓝光
+http://39.135.34.138:18890/000000001000/1000000001000028357/1.m3u8?channel-id=ystenlive&stbId=0000019901080888100D73828EA039036
+#EXTINF:-1 ,龙江卫视蓝光
+http://39.135.34.139:18890/000000001000/1000000001000001925/1.m3u8?channel-id=ystenlive&stbId=0000019901080888100D73828EA036449
+#EXTINF:-1 ,东南卫视蓝光
+http://39.135.34.11:18890/000000001000/1000000002000009263/1.m3u8?channel-id=ystenlive&stbId=0000019901080888100D73828EA035575
+#EXTINF:-1 ,江西卫视蓝光
+http://39.135.34.11:18890/000000001000/1000000001000013731/1.m3u8?channel-id=ystenlive&stbId=0000019901080888100D73828EA039197
+#EXTINF:-1 ,四川卫视高清
+http://39.135.34.15:18890/000000001000/1000000002000016825/1.m3u8?channel-id=ystenlive&stbId=0000019901080888100D73828EA031444
+#EXTINF:-1 ,贵州卫视高清
+http://39.135.34.20:18890/000000001000/1000000002000003169/1.m3u8?channel-id=ystenlive&stbId=0000019901080888100D73828EA032847
+#EXTINF:-1 ,广西卫视高清
+http://39.135.34.22:18890/000000001000/1000000002000019837/1.m3u8?channel-id=ystenlive&stbId=0000019901080888100D73828EA034282
+#EXTINF:-1 ,重庆卫视蓝光
+http://39.135.34.4:18890/000000001000/1000000002000018937/1.m3u8?channel-id=ystenlive&stbId=0000019901080888100D73828EA035324
+#EXTINF:-1 ,河北卫视高清
+http://39.135.34.15:18890/000000001000/1000000002000017118/1.m3u8?channel-id=ystenlive&stbId=0000019901080888100D73828EA035309
+#EXTINF:-1 ,海南卫视高清
+http://39.135.34.22:18890/000000001000/7899627377857656087/1.m3u8?channel-id=ystenlive&stbId=0000019901080888100D73828EA031881
+#EXTINF:-1 ,南方卫视高清
+http://39.135.34.135:18890/000000001000/1000000002000011619/1.m3u8?channel-id=ystenlive&stbId=0000019901080888100D73828EA032735
+#EXTINF:-1 ,甘肃卫视高清
+http://39.135.34.139:18890/000000001000/1000000002000017827/1.m3u8?channel-id=ystenlive&stbId=0000019901080888100D73828EA036038
+#EXTINF:-1 ,青海卫视高清
+http://39.135.34.4:18890/000000001000/1000000002000013359/1.m3u8?channel-id=ystenlive&stbId=0000019901080888100D73828EA036011
+#EXTINF:-1 ,山西卫视高清
+http://39.135.34.20:18890/000000001000/1000000002000021220/1.m3u8?channel-id=ystenlive&stbId=0000019901080888100D73828EA033392
+#EXTINF:-1 ,云南卫视高清
+http://39.135.34.16:18890/000000001000/1000000002000024694/1.m3u8?channel-id=ystenlive&stbId=0000019901080888100D73828EA033213
+#EXTINF:-1 ,陕西卫视高清
+http://39.135.34.19:18890/000000001000/1000000002000007495/1.m3u8?channel-id=ystenlive&stbId=0000019901080888100D73828EA038916
+#EXTINF:-1 ,吉林卫视高清
+http://39.135.34.8:18890/000000001000/6042486520432105075/1.m3u8?channel-id=ystenlive&stbId=0000019901080888100D73828EA031101
+#EXTINF:-1 ,宁夏卫视高清
+http://39.135.34.8:18890/000000001000/1000000002000031451/1.m3u8?channel-id=ystenlive&stbId=0000019901080888100D73828EA037183
+#EXTINF:-1 ,内蒙卫视高清
+http://39.135.34.18:18890/000000001000/1000000002000014080/1.m3u8?channel-id=ystenlive&stbId=0000019901080888100D73828EA035183
+#EXTINF:-1 ,新疆卫视高清
+http://39.135.34.12:18890/000000001000/1000000002000029441/1.m3u8?channel-id=ystenlive&stbId=0000019901080888100D73828EA032944
+#EXTINF:-1 ,西藏卫视高清
+http://39.135.34.5:18890/000000001000/6603041244077933770/1.m3u8?channel-id=ystenlive&stbId=0000019901080888100D73828EA034549
+#EXTINF:-1 ,珠江卫视高清
+http://39.135.34.15:18890/000000001000/1000000004000011655/1.m3u8?channel-id=ystenlive&stbId=0000019901080888100D73828EA031981
+#EXTINF:-1 ,中国教育
+http://39.135.34.8:18890/000000001000/1000000002000027253/1.m3u8?channel-id=ystenlive&stbId=0000019901080888100D73828EA032459
+#EXTINF:-1 ,CHC高清电影
+http://60.255.149.208/tslive/c211_scc_20190618_ek4k254b_original_r10/c211_scc_20190618_ek4k254b_original_r10.m3u8
+#EXTINF:-1 ,CHC动作电影 
+http://60.255.149.208/tslive/c213_scc_20190618_wzkayvu1_original_r10/c213_scc_20190618_wzkayvu1_original_r10.m3u8
+#EXTINF:-1 ,CHC家庭影院 
+http://60.255.149.208/tslive/c212_scc_20190618_q0ktot1t_original_r10/c212_scc_20190618_q0ktot1t_original_r10.m3u8
+#EXTINF:-1 ,凤凰资讯 
+http://112.17.40.197:80/PLTV/88888888/224/3221226491/index.m3u8?icpid=88888888&from=30&hms_devid=1452,1481&online=1580892610&vqe=1
+#EXTINF:-1 ,凤凰卫视 
+http://112.17.40.139:80/PLTV/88888888/224/3221226368/index.m3u8?icpid=88888888&from=30&hms_devid=1452,1451&online=1580892662&vqe=1
+#EXTINF:-1 ,峨眉电影 
+http://scgctvshow.sctv.com/hdlive/emei/1.m3u8
+#EXTINF:-1 ,香港影视 
+http://117.157.224.17/dlhdl-cdn.zhanqi.tv/zqlive/293853_EJciJ.flv
+#EXTINF:-1 ,香港电影 
+http://tx.hls.huya.com/huyalive/29106097-2689446042-11551082794746642432-2789253870-10057-A-0-1.m3u8
+#EXTINF:-1 ,黑莓电影 
+http://39.135.34.16:18890/000000001000/8785669936177902664/1.m3u8?channel-id=ystenlive&stbId=0000019901080888100D73828EA031726
+#EXTINF:-1 ,黑莓动画 
+http://39.135.34.22:18890/000000001000/6497762188035533951/1.m3u8?channel-id=ystenlive&stbId=0000019901080888100D73828EA035865
+#EXTINF:-1 ,精品大剧 
+http://39.135.34.136:18890/000000001000/7882297361445410858/1.m3u8?channel-id=ystenlive&stbId=0000019901080888100D73828EA036134
+#EXTINF:-1 ,中国功夫 
+http://39.135.34.139:18890/000000001000/5897056882324761054/1.m3u8?channel-id=ystenlive&stbId=0000019901080888100D73828EA033066
+#EXTINF:-1 ,金牌综艺 
+http://39.135.34.19:18890/000000001000/6399725674632152632/1.m3u8?channel-id=ystenlive&stbId=0000019901080888100D73828EA035200
+#EXTINF:-1 ,农业致富 
+http://39.135.34.12:18890/000000001000/6193684637634073625/1.m3u8?channel-id=ystenlive&stbId=0000019901080888100D73828EA034958
+#EXTINF:-1 ,精品记录 
+http://39.135.34.12:18890/000000001000/6298506997017621594/1.m3u8?channel-id=ystenlive&stbId=0000019901080888100D73828EA035086
+#EXTINF:-1 ,精品体育 
+http://39.135.34.15:18890/000000001000/6460382139625130259/1.m3u8?channel-id=ystenlive&stbId=0000019901080888100D73828EA038511
+#EXTINF:-1 ,潮妈辣婆 
+http://39.135.34.16:18890/000000001000/6516734029835465177/1.m3u8?channel-id=ystenlive&stbId=0000019901080888100D73828EA033647
+#EXTINF:-1 ,炫舞未来 
+http://39.135.34.5:18890/000000001000/1000000001000000515/1.m3u8?channel-id=ystenlive&stbId=0000019901080888100D73828EA032461
+#EXTINF:-1 ,明星大片 
+http://39.135.34.19:18890/000000001000/5595720619887440144/1.m3u8?channel-id=ystenlive&stbId=0000019901080888100D73828EA035213
+#EXTINF:-1 ,自由搏击 
+http://39.135.34.134:18890/000000001000/bokesen/1.m3u8?channel-id=ystenlive&stbId=0000019901080888100D73828EA036942
+#EXTINF:-1 ,海外综合 
+http://39.135.34.7:18890/000000001000/7681593242002292003/1.m3u8?channel-id=ystenlive&stbId=0000019901080888100D73828EA037503
+#EXTINF:-1 ,惊梀悬疑 
+http://39.135.34.21:18890/000000001000/7151256057701199617/1.m3u8?channel-id=ystenlive&stbId=0000019901080888100D73828EA035904
+#EXTINF:-1 ,家庭剧场 
+http://39.135.34.22:18890/000000001000/6316377948248689070/1.m3u8?channel-id=ystenlive&stbId=0000019901080888100D73828EA033011
+#EXTINF:-1 ,动作电影 
+http://39.135.34.16:18890/000000001000/8103864434730665389/1.m3u8?channel-id=ystenlive&stbId=0000019901080888100D73828EA035975
+#EXTINF:-1 ,古装剧场 
+http://39.135.34.136:18890/000000001000/6859053933687922163/1.m3u8?channel-id=ystenlive&stbId=0000019901080888100D73828EA038365
+#EXTINF:-1 ,军旅剧场 
+http://39.135.34.135:18890/000000001000/7485075951068666323/1.m3u8?channel-id=ystenlive&stbId=0000019901080888100D73828EA035128
+#EXTINF:-1 ,爱情喜剧 
+http://39.135.34.19:18890/000000001000/8393829412396288037/1.m3u8?channel-id=ystenlive&stbId=0000019901080888100D73828EA032920
+#EXTINF:-1 ,军事评论 
+http://39.135.34.138:18890/000000001000/5822616274253344775/1.m3u8?channel-id=ystenlive&stbId=0000019901080888100D73828EA038814
+#EXTINF:-1 ,健康有约 
+http://39.135.34.18:18890/000000001000/7820874641606664941/1.m3u8?channel-id=ystenlive&stbId=0000019901080888100D73828EA033439
+#EXTINF:-1 ,经典港片 
+http://baiducdnct.inter.iqiyi.com/tslive/c15_lb_jingdianguangpian_1080p_t10/c15_lb_jingdianguangpian_1080p_t10.m3u8
+#EXTINF:-1 ,小品轮播 
+http://aldirect.hls.huya.com/huyalive/29106097-2689281338-11550375396453122048-2777038134-10057-A-0-1.m3u8
+#EXTINF:-1 ,电影轮播 
+http://aldirect.hls.huya.com/huyalive/29106097-2689444502-11551076180497006592-2789253868-10057-A-1525419311-1_1200.m3u8
+#EXTINF:-1 ,TVB神剧
+http://hls-ott-zhibo.wasu.tv/live/202/index.m3u8
+#EXTINF:-1 ,成龙电影 
+http://tx.hls.huya.com/huyalive/94525224-2460685722-10568564701724147712-2789253838-10057-A-0-1.m3u8
+#EXTINF:-1 ,徐峥电影 
+http://tx.hls.huya.com/huyalive/30765679-2689675828-11552069718101721088-3048991626-10057-A-0-1.m3u8
+#EXTINF:-1 ,周星驰电影 
+http://tx.hls.huya.com/huyalive/94525224-2460685313-10568562945082523648-2789274524-10057-A-0-1.m3u8
+#EXTINF:-1 ,周润发电影 
+http://tx.hls.huya.com/huyalive/94525224-2460685774-10568564925062447104-2789253840-10057-A-0-1.m3u8
+#EXTINF:-1 ,刘德华电影 
+http://tx.hls.huya.com/huyalive/94525224-2467341872-10597152648291418112-2789274550-10057-A-0-1.m3u8
+#EXTINF:-1 ,李连杰电影 
+http://tx.hls.huya.com/huyalive/94525224-2460686093-10568566295157014528-2789253848-10057-A-0-1.m3u8
+#EXTINF:-1 ,洪金宝电影 
+http://tx.hls.huya.com/huyalive/29106097-2689406282-11550912026846953472-2789274558-10057-A-0-1.m3u8
+#EXTINF:-1 ,林正英电影 
+http://tx.hls.huya.com/huyalive/94525224-2460686034-10568566041753944064-2789274542-10057-A-0-1.m3u8
+#EXTINF:-1 ,甄子丹电影 
+http://tx.hls.huya.com/huyalive/29169025-2686219938-11537226783573147648-2847699096-10057-A-1524024759-1.m3u8
+#EXTINF:-1 ,斯坦森电影 
+http://tx.hls.huya.com/huyalive/30765679-2554414705-10971127618396487680-3048991636-10057-A-0-1.m3u8
+#EXTINF:-1 ,古惑仔电影 
+http://tx.hls.huya.com/huyalive/30765679-2523417522-10837995731143360512-2777068634-10057-A-0-1.m3u8
+#EXTINF:-1 ,赌神电影 
+http://tx.hls.huya.com/huyalive/29106097-2689446042-11551082794746642432-2789253870-10057-A-0-1.m3u8
+#EXTINF:-1 ,漫威电影 
+http://tx.hls.huya.com/huyalive/30765679-2504742278-10757786168918540288-3049003128-10057-A-0-1.m3u8
+#EXTINF:-1 ,女神港片 
+http://tx.hls.huya.com/huyalive/30765679-2484192476-10669525441389264896-2789274564-10057-A-0-1.m3u8
+#EXTINF:-1 ,科幻电影 
+http://tx.hls.huya.com/huyalive/30765679-2478268764-10644083292078342144-2847699106-10057-A-0-1.m3u8
+#EXTINF:-1 ,丧尸电影 
+http://tx.hls.huya.com/huyalive/29106097-2689286606-11550398022340837376-2789274544-10057-A-0-1.m3u8
+#EXTINF:-1 ,真实改编 
+http://tx.hls.huya.com/huyalive/30765679-2554414680-10971127511022305280-3048991634-10057-A-0-1.m3u8
+#EXTINF:-1 ,警匪电影 
+http://tx.hls.huya.com/huyalive/28466698-2689661530-11552008308659322880-3049003102-10057-A-0-1.m3u8
+#EXTINF:-1 ,王晶电影 
+http://aldirect.hls.huya.com/huyalive/94525224-2579683592-11079656661667807232-2847687574-10057-A-0-1_1200.m3u8
+#EXTINF:-1 ,欢笑剧场 
+http://183.207.249.15/PLTV/2/224/3221226031/index.m3u8
+#EXTINF:-1 ,科幻电影 
+http://aldirect.hls.huya.com/huyalive/28466698-2689656864-11551988268341919744-2847699194-10057-A-0-1_1200.m3u8
+#EXTINF:-1 ,高清电影1 
+http://aldirect.hls.huya.com/huyalive/29169025-2686220018-11537227127170531328-2847699120-10057-A-1524041208-1_1200.m3u8
+#EXTINF:-1 ,高清电影2 
+http://js.hls.huya.com/huyalive/30765679-2478268764-10644083292078342144-2847699106-10057-A-0-1_1200.m3u8
+#EXTINF:-1 ,高清电影3 
+http://aldirect.hls.huya.com/huyalive/30765679-2504742278-10757786168918540288-3049003128-10057-A-0-1_1200.m3u8
+#EXTINF:-1 ,高清电影4 
+http://aldirect.hls.huya.com/huyalive/28466698-2689659358-11551998979990355968-2789274580-10057-A-0-1_1200.m3u8
+#EXTINF:-1 ,高清电影5 
+http://tx.hls.huya.com/huyalive/29106097-2689406282-11550912026846953472-2789274558-10057-A-0-1_1200.m3u8
+#EXTINF:-1 ,高清电影6 
+http://tx.hls.huya.com/huyalive/29106097-2689406282-11550912026846953472-2789274558-10057-A-0-1_1200.m3u8
+#EXTINF:-1 ,动作电影 
+http://baiducdnct.inter.iqiyi.com/tslive/c16_lb_dongzuodianying_1080p_t10/c16_lb_dongzuodianying_1080p_t10.m3u8
+#EXTINF:-1 ,爱玩具 
+http://117.148.187.49:80/wh7f454c46tw2353157700_-468925800/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221230026/index.m3u8?icpid=88888888&from=35&rrsiplist=39.134.176.217&popid=35&prioritypopid=35&RTS=1580893915&hms_devid=1644&online=1580893915
+#EXTINF:-1 ,爱奇谈 
+http://117.148.187.43:80/wh7f454c46tw2386622597_-719826813/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221230023/index.m3u8?icpid=88888888&from=35&rrsiplist=39.134.176.217&popid=35&prioritypopid=35&RTS=1580893948&hms_devid=1647&online=1580893948
+#EXTINF:-1 ,爱电竞 
+http://117.148.187.45:80/wh7f454c46tw2400769907_1516299015/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221230029/index.m3u8?icpid=88888888&from=35&rrsiplist=39.134.176.217&popid=35&prioritypopid=35&RTS=1580893963&hms_devid=1643&online=1580893963
+#EXTINF:-1 ,爱赛车 
+http://117.148.187.15:80/wh7f454c46tw2428554328_-1297015812/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221230032/index.m3u8?icpid=88888888&from=35&rrsiplist=39.134.176.217&popid=35&prioritypopid=35&RTS=1580893990&hms_devid=1639&online=1580893990
+#EXTINF:-1 ,金鹰纪实 
+http://39.135.34.6:18890/000000001000/1000000002000011724/1.m3u8?channel-id=ystenlive&stbId=0000019901080888100D73828EA037176
+#EXTINF:-1 ,金鹰卡通 
+http://39.135.34.8:18890/000000001000/1000000002000016601/1.m3u8?channel-id=ystenlive&stbId=0000019901080888100D73828EA034345
+#EXTINF:-1 ,佳通卡通 
+http://39.135.34.6:18890/000000001000/1000000002000025964/1.m3u8?channel-id=ystenlive&stbId=0000019901080888100D73828EA039139
+#EXTINF:-1 ,哈哈卡通 
+http://39.135.34.19:18890/000000001000/1000000002000000172/1.m3u8?channel-id=ystenlive&stbId=0000019901080888100D73828EA033514
+#EXTINF:-1 ,炫动卡通 
+http://39.135.34.137:18890/000000001000/7589856436881630561/1.m3u8?channel-id=ystenlive&stbId=0000019901080888100D73828EA032440
+#EXTINF:-1 ,优漫卡通 
+http://39.135.34.23:18890/000000001000/1000000002000010063/1.m3u8?channel-id=ystenlive&stbId=0000019901080888100D73828EA031764
