@@ -118,5 +118,7 @@ https://aldirect.hls.huya.com:443/huyalive/29106097-2689287372-11550401312285786
 http://live.dxhmt.cn:9081/tv/10725-1.m3u8
 #EXTINF:-1,CCTV6电影频道
 http://ivi.bupt.edu.cn/hls/cctv6.m3u8
+#EXTINF:-1,都市频道
+http://123.163.119.21:9602/live/live2/500K/tzwj_video.m3u8?KEY
 
 
