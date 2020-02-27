@@ -115,13 +115,27 @@ http://httpdvb.slave.homed.hrtn.net/playurl?playtype=live&protocol=hls&accesstok
 http://aldirect.hls.huya.com/huyalive/29169025-2686220018-11537227127170531328-2847699120-10057-A-1524041208-1_1200.m3u8
 #EXTINF:-1,高清影院
 https://aldirect.hls.huya.com:443/huyalive/29106097-2689287372-11550401312285786112-2789253858-10057-A-0-1_1200.m3u8
+#EXTINF:-1,安徽卫视
+http://121.31.30.90:8085/ysten-business/live/anhuistv/1.m3u8
+#EXTINF:-1,安徽卫视
+http://cctvtxyh5ca.liveplay.myqcloud.com/wstv/anhui_2/index.m3u8
+#EXTINF:-1,浙江卫视
+http://ali.m.l.cztv.com/channels/lantian/channel01/360p.m3u8
+#EXTINF:-1,河南卫视
+http://cctvtxyh5ca.liveplay.myqcloud.com/wstv/henan_2/index.m3u8
+#EXTINF:-1,河南梨园频道
+http://117.158.206.60:9080/live/lypd.m3u8
+#EXTINF:-1,都市频道
+http://117.158.206.60:9080/live/lypd.m3u8
+#EXTINF:-1,河南法制频道
+http://123.163.119.21:9602/live/live4/500K/tzwj_video.m3u8?KEY
+#EXTINF:-1,河南民生频道
+http://123.163.119.21:9602/live/live3/500K/tzwj_video.m3u8?KEY
 #EXTINF:-1,原阳电视台
 http://live.dxhmt.cn:9081/tv/10725-1.m3u8
 #EXTINF:-1,CCTV6电影频道
 http://ivi.bupt.edu.cn/hls/cctv6.m3u8
 #EXTINF:-1,都市频道
 http://123.163.119.21:9602/live/live2/500K/tzwj_video.m3u8?KEY
-#EXTINF:-1,安徽卫视
-http://121.31.30.90:8085/ysten-business/live/anhuistv/1.m3u8
 
 
