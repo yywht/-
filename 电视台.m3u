@@ -137,5 +137,11 @@ http://ivi.bupt.edu.cn/hls/cctv6.m3u8
 http://123.163.119.21:9602/live/live2/500K/tzwj_video.m3u8?KEY
 #EXTINF:-1,都市频道1
 http://117.158.206.60:9080/live/lypd.m3u8
-
-
+#EXTINF:-1,郑州南高速收费站
+http://stream2.hndt.com/zbj2/LIVE_gs2pKMQOt.m3u8
+#EXTINF:-1,郑州新区站
+http://stream2.hndt.com/zbj2/LIVE_gs4P1NQka.m3u8
+#EXTINF:-1,郑州柳林高速收费站
+http://stream2.hndt.com/zbj2/LIVE_gs3Wov9tf.m3u8
+#EXTINF:-1,郑州西南站
+http://stream2.hndt.com/zbj2/LIVE_gs14dsUG4.m3u8
