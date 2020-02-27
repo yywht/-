@@ -125,8 +125,6 @@ http://ali.m.l.cztv.com/channels/lantian/channel01/360p.m3u8
 http://cctvtxyh5ca.liveplay.myqcloud.com/wstv/henan_2/index.m3u8
 #EXTINF:-1,河南梨园频道
 http://117.158.206.60:9080/live/lypd.m3u8
-#EXTINF:-1,都市频道
-http://117.158.206.60:9080/live/lypd.m3u8
 #EXTINF:-1,河南法制频道
 http://123.163.119.21:9602/live/live4/500K/tzwj_video.m3u8?KEY
 #EXTINF:-1,河南民生频道
@@ -137,5 +135,7 @@ http://live.dxhmt.cn:9081/tv/10725-1.m3u8
 http://ivi.bupt.edu.cn/hls/cctv6.m3u8
 #EXTINF:-1,都市频道
 http://123.163.119.21:9602/live/live2/500K/tzwj_video.m3u8?KEY
+#EXTINF:-1,都市频道1
+http://117.158.206.60:9080/live/lypd.m3u8
 
 
