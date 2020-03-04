@@ -524,7 +524,7 @@ http://119.167.204.84/tlivecloud-cdn.ysp.cctv.cn/001/2000204603.m3u8
 http://119.167.204.84/tlivecloud-cdn.ysp.cctv.cn/001/2000204403.m3u8
 #EXTINF:-1,CCTV15超清
 http://119.167.204.84/tlivecloud-cdn.ysp.cctv.cn/001/2000205003.m3u8
-CCTV17超清	
+#EXTINF:-1,CCTV17超清	
 http://119.167.204.84/tlivecloud-cdn.ysp.cctv.cn/001/2000204203.m3u8
 #EXTINF:-1,广东卫视超清	
 http://119.167.204.84/tlivecloud-cdn.ysp.cctv.cn/001/2000292703.m3u8
@@ -1304,7 +1304,7 @@ http://haiyan.liveyun.hoge.cn/xwpd/sd/live.m3u8
 http://weblive.hebtv.com/live/hbgg_lc/index.m3u8
 #EXTINF:-1,河北购物
 http://weblive.hebtv.com/live/sjgw_bq/index.m3u8
-#EXTINF:-1,?红河县综合
+#EXTINF:-1,红河县综合
 http://221.3.215.43:9099/hhtv/hhtv.m3u8
 #EXTINF:-1,红河县综合	
 http://live.hhtv.cc:9099/hhtv/hhtv.m3u8
