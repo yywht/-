@@ -1,16 +1,16 @@
 #EXTM3U
 
-#EXTINF:-1,CCTV-1綜合
+#EXTINF:-1 ,CCTV-1綜合
 http://live-wcloud-cdn.ysp.cctv.cn/tlivecloud-cdn.ysp.cctv.cn/001/2000210103.m3u8
-#EXTINF:-1,CCTV-2財經
+#EXTINF:-1 ,CCTV-2財經
 http://live-wcloud-cdn.ysp.cctv.cn/tlivecloud-cdn.ysp.cctv.cn/001/2000203603.m3u8
-#EXTINF:-1,CCTV-3綜藝
+#EXTINF:-1 ,CCTV-3綜藝
 http://live-wcloud-cdn.ysp.cctv.cn/tlivecloud-cdn.ysp.cctv.cn/001/2000203803.m3u8
-#EXTINF:-1,CCTV-4中文國際
+#EXTINF:-1 ,CCTV-4中文國際
 http://live-wcloud-cdn.ysp.cctv.cn/tlivecloud-cdn.ysp.cctv.cn/001/2000204803.m3u8
-#EXTINF:-1,CCTV-4中文國際美洲
+#EXTINF:-1 ,CCTV-4中文國際美洲
 https://cctvcnch5ca.v.wscdns.com/live/cctvamerica_2/index.m3u8
-#EXTINF:-1,CCTC-4中文國際歐洲
+#EXTINF:-1 ,CCTC-4中文國際歐洲
 https://cctvcnch5ca.v.wscdns.com/live/cctveurope_2/index.m3u8
 #EXTINF:-1,CCTV-5體育
 http://live-wcloud-cdn.ysp.cctv.cn/tlivecloud-cdn.ysp.cctv.cn/001/2000205103.m3u8
